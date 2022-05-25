@@ -1,10 +1,12 @@
 <p align="center">
-  <img width="300" height="300" src="./static/q_sup_logo.svg">
+  <img width="300" height="300" src="./q_sup_logo.svg">
 </p>
 
 # Q-Sup
 
 > A messaging web application which implements Quantum Key Distribution for secure communication!
+
+Original Link: https://github.com/Chasmiccoder/Q-Sup
 
 ## What is Quantum Key Distribution? 🤔
 Key Distribution, in cryptography, is the process where two parties separated over a distance generate a key, which can be used to establish secure communication.
